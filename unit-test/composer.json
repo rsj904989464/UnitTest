@@ -1,0 +1,19 @@
+{
+    "name": "rsj/unit-test",
+    "description": "test unit",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rsj",
+            "email": "904989464@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rsj\\UnitTest\\": "./src"
+        }
+    }
+}
